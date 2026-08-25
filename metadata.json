@@ -1,0 +1,6 @@
+{
+  "name": "TentHouse Rental & Booking Platform",
+  "description": "Indian village & lawn tent house rental platform for desi shamyana, waterproof pandal, seating, decor, and cooking equipment with instant booking and admin manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
